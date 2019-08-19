@@ -1,0 +1,28 @@
+{
+	"searchTrip": {
+		"tripType": "round trip",
+		"origin": "cairo",
+		"destination": "new york",
+		"fromDate": "22 Sep",
+		"toDate": "25 Sep",
+		"adultsNumber": "2",
+		"childsNumber": "1",
+		"infantNumber": "0",
+		"seatType": "premium"
+	},
+	"sendTicket": {
+		"fullName": "mohamed samir",
+		"email": "tester@gmail.com",
+		"message": "there is a problem",
+		"category": "General Question"
+	},
+	"signUp": {
+		"firstName": "samir",
+		"familyName": "ahmed",
+		"email": "@gmail.com",
+		"password": "Qwerty12345!",
+		"emailPassword": "Qwerty12345!",
+		"validateEmail": "Verify your email",
+		"validationSuccessfully": "Account Verification Success"
+	}
+}

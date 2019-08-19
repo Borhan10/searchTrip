@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="browser" value="chrome" />
+	<parameter name="URL" value="https://www.fly365.com/" />
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="testCases.searchRoundTripTestCase" />
+			<class name="testCases.sendTicketContactUsTestCase" />
+			<class name="testCases.signUpTestCase" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
