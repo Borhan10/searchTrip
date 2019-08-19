@@ -2,12 +2,19 @@
 by Mohamed Ahmed Borhan, 2019/08/19
 
 This is selenium automation project on Fly365 website 
+
 it make search round trip with dynamic data from the user 
+
 it make validation on signUp done successfully
+
 it make validation on the validation email process is done successfully (has some issues it working normally in debugging mode)
+
 it make validation on account has been verified on the website 
+
 it make validation on account has been verified on the Gmail (has some issues it working normally in debugging mode)
+
 it make validation on sending ticket with dynamic data done successfully 
+
 
 ## Getting Started
 
@@ -47,6 +54,7 @@ from execution => Change to 1.8 => Apply and close)
 
 3.Make sure that test data are valid to run the tests (fly365=>resources=>data.json)
 
+
 ### Test Cases in the code 
 
 1. Search round triptest cases .
@@ -64,6 +72,10 @@ from execution => Change to 1.8 => Apply and close)
 3.3 Make verify that account verified successfully from Gmail
 
 3.4 Make verify that account verified successfully from Website
+
+### Reports 
+
+1. You will find the reports attached in this path after running the test cases ( fly365=>test-output=>index.html)
 
 ## Built With
 
