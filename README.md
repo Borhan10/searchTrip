@@ -45,6 +45,9 @@ These instructions will get you a copy of the project up and running on your loc
 3. Open properties and make sure that JDK is higher than 1.5 (Open project properties=> Open Java compiler => Uncheck Use compliance 
 from execution => Change to 1.8 => Apply and close)
 
+4. Make sure to fill data.json with valid data and make sure that the email in the signUp object is valid on Gmail and can sign in 
+New on the website and didn't signed before 
+
 
 ## Running the tests
 
